@@ -7,12 +7,12 @@ The goal of the project is to create a simple online store for learning and expe
 
 ---
 
-## ✨ Features
-- 🌍 **دعم تعدد اللغات** (EN/AR) باستخدام `easy_localization`.
-- 👤 **شاشات تسجيل الدخول والتسجيل**.
-- 🛒 **شاشة ترحيب تحتوي على صور للمنتجات**.
-- 🎨 **تصميم عصري باستخدام Material Design**.
-- 📱 **متوافق مع Android و iOS**.
+✨ Features
+🌍 Multilingual support (EN/AR) using easy_localization.
+👤 Login and registration screens.
+🛒 Welcome screen with product images.
+🎨 Modern design using Material Design.
+📱 Compatible with Android and iOS..
 
 ---
 
