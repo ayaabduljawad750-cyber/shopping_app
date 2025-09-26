@@ -1,16 +1,25 @@
-# shopping_app
+# 👜 Shopping App (Flutter)
 
-A new Flutter project.
+## 📌 Project Overview
+Shopping App is a demo app built using **Flutter**.
+It offers a welcome interface, login, new account registration, and multilingual support (Arabic/English).
+The goal of the project is to create a simple online store for learning and experimenting.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🌍 **دعم تعدد اللغات** (EN/AR) باستخدام `easy_localization`.
+- 👤 **شاشات تسجيل الدخول والتسجيل**.
+- 🛒 **شاشة ترحيب تحتوي على صور للمنتجات**.
+- 🎨 **تصميم عصري باستخدام Material Design**.
+- 📱 **متوافق مع Android و iOS**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the repository
+```bash
+git clone https://github.com/USERNAME/shopping_app.git
+cd shopping_app
+
