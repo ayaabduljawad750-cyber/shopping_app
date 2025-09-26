@@ -22,7 +22,7 @@ The goal of the project is to create a simple online store for learning and expe
 git clone https://github.com/ayaabduljawad750-cyber/shopping_app
 cd shopping_app
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 ### 🏠 Welcome Screen
 ![Welcome](ScreenShots/welcomeScreen.PNG)
