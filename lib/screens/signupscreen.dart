@@ -98,7 +98,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
-                          child: Text("Join us to begin your journey"),
+                          child: Text(tr("Join_us_to_begin_your_journey")),
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
